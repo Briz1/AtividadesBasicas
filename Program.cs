@@ -1,0 +1,11 @@
+﻿using Desenvolvimento.Models;
+ExerciciosBasicos1.atividade1();
+ExerciciosBasicos2.atividade2();
+ExerciciosBasicos3.atividade3();
+ExerciciosBasicos4.atividade4();
+ExerciciosBasicos5.atividade5();
+ExerciciosBasicos6.atividade6();
+ ExerciciosBasicos7.atividade7();
+ExerciciosBasicos8.atividade8();
+ExerciciosBasicos9.atividade9();
+ExerciciosBasicos10.atividade10();

@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.AssemblyInfo.cs
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Desenvolvimento/bin/Debug/net9.0/Desenvolvimento
+/Users/macbookpro/Documents/Desenvolvimento/bin/Debug/net9.0/Desenvolvimento.deps.json
+/Users/macbookpro/Documents/Desenvolvimento/bin/Debug/net9.0/Desenvolvimento.runtimeconfig.json
+/Users/macbookpro/Documents/Desenvolvimento/bin/Debug/net9.0/Desenvolvimento.dll
+/Users/macbookpro/Documents/Desenvolvimento/bin/Debug/net9.0/Desenvolvimento.pdb
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.dll
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/refint/Desenvolvimento.dll
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.pdb
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/Desenvolvimento.genruntimeconfig.cache
+/Users/macbookpro/Documents/Desenvolvimento/obj/Debug/net9.0/ref/Desenvolvimento.dll
